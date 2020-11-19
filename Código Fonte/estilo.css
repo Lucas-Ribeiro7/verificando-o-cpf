@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+    width: 700px;
+    padding: 20px;
+    margin: auto;
+}
+div.login{
+    background-color: rgba(245, 245, 220, 0.247);
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
