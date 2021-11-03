@@ -9,7 +9,7 @@
 <body>
     <div class="login">
         <form action="verificar.php" method="POST">
-            <h2>Login</h2>
+            <h2>Login:</h2>
             <label>Digite seu CPF:</label>
             <input type="text" name="cpf" required>
             <br><br>
